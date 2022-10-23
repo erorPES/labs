@@ -1,0 +1,15 @@
+{
+    "folders": [
+        {
+            "path": ".."
+        },
+        {
+            "path": "../../homework"
+        }
+    ],
+    "settings": {
+        "files.associations": {
+            "cmath": "cpp"
+        }
+    }
+}
